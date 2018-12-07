@@ -1,5 +1,4 @@
-<% project_name = 'workout
-' %>
+<% project_name = 'workout' %>
 
 default: &default
   adapter: postgresql

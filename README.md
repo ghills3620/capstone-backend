@@ -1,5 +1,3 @@
-![Wodify Logo](http://crossfitparadox.com/wp-content/uploads/2015/09/wodify-logo.jpe)
-
 ## What is Wodify?
 
 If you've ever been to a CrossFit box (aka gym) and taken part in a WOD (workout of the day), you'll know that the whiteboard is an integral part of the whole experience: It's where the WOD is written out beforehand and where everyone's results are recorded afterward. So why get rid of whiteboards at CrossFit facilities all over the country? Because, they say, they've got something better. Needless to say, we're intrigued.
@@ -15,11 +13,8 @@ Now, this isn't the first program out there designed for CrossFitters to use for
 [Heroku](https://heroku.com/)
   - is a cloud platform that lets companies build, deliver, monitor and scale apps.
 
-[Javascript](https://www.javascript.com/)
-  - An object-oriented computer programming language commonly used to create interactive effects within web browsers.
-
-[Handlebars](https://handlebarsjs.com/)
-  - Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.
+[JSX](https://reactjs.org/docs/introducing-jsx.html)
+  - is a preprocessor step that adds XML syntax to JavaScript. You can definitely use React without JSX but JSX makes React a lot more elegant.
 
 [Bootstrap](https://getbootstrap.com/)
   - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
@@ -27,8 +22,10 @@ Now, this isn't the first program out there designed for CrossFitters to use for
 ## Unsolved Problems/User Stories
 
 Version 1
+ - STYLING!!!!
  - Being able to style the site as I would like it to look
  - Giving the user the ability to have a user name displayed instead of their email
+ - More user friendly UI experience
 
 Version 2
  - Non signed in User
@@ -43,15 +40,7 @@ Version 2
     - named or custom workout
   - As a signed in user, I want to be able to be able to see a table of named workouts
 
-ERD's:
-V1
-https://imgur.com/j76qqEa
-V2
-https://imgur.com/LvFLrh1
-
-Wire Frame:
-https://imgur.com/c6mVjVo
-https://imgur.com/8htgRoW
+[ERD's/Wire Frame](https://imgur.com/a/tpN09xp)
 
 ## Project Planning
 
@@ -118,6 +107,6 @@ help. Ive learned alot during this process and feel more confident after finishi
 
 ## Links
 
-- [Wodify Client](https://ghills3620.github.io/full-stack-client/)
-- [Wodify Server](https://wodify.herokuapp.com/)
-- [Client Read Me](https://github.com/ghills3620/full-stack-client)
+- [Client]()
+- [Server](https://arcane-woodland-92648.herokuapp.com/)
+- [Client Read Me](https://github.com/ghills3620/capstone-react/)
